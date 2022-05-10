@@ -1,0 +1,411 @@
+2022-05-09 22:52:16,525 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-09 22:52:16,567 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-09 22:52:19,136 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-09 22:52:19,176 [main] INFO nopCommerce - *********opening URL***********
+2022-05-09 22:52:21,315 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-09 22:52:21,696 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-09 22:52:25,421 [main] INFO nopCommerce - *********login failed***********
+2022-05-09 22:57:58,436 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-09 22:57:58,485 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-09 22:58:01,362 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-09 22:58:01,415 [main] INFO nopCommerce - *********opening URL***********
+2022-05-09 22:58:03,623 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-09 22:58:03,983 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-09 22:58:08,592 [main] INFO nopCommerce - *********login failed***********
+2022-05-09 22:58:10,613 [main] INFO nopCommerce - *********clicks on log0ut**********
+2022-05-09 22:58:14,348 [main] INFO nopCommerce - *********login failed***********
+2022-05-09 23:05:42,931 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-09 23:05:42,986 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-09 23:05:45,607 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-09 23:05:45,659 [main] INFO nopCommerce - *********opening URL***********
+2022-05-09 23:05:47,727 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-09 23:05:48,102 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-09 23:05:52,503 [main] INFO nopCommerce - *********login failed***********
+2022-05-09 23:05:54,592 [main] INFO nopCommerce - *********clicks on log0ut**********
+2022-05-09 23:05:58,504 [main] INFO nopCommerce - *********login failed***********
+2022-05-09 23:12:02,186 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-09 23:12:02,235 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-09 23:12:04,529 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-09 23:12:04,571 [main] INFO nopCommerce - *********opening URL***********
+2022-05-09 23:12:06,664 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-09 23:12:07,014 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-09 23:12:11,681 [main] INFO nopCommerce - *********login failed***********
+2022-05-09 23:17:46,435 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-09 23:17:46,489 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-09 23:17:48,953 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-09 23:17:49,011 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 12:38:24,463 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 12:38:24,514 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 12:38:27,338 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 12:38:27,396 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 12:38:29,555 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 12:38:29,905 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 12:38:34,308 [main] INFO nopCommerce - *********login failed***********
+2022-05-10 12:39:46,608 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 12:39:46,656 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 12:39:49,789 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 12:39:49,843 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 12:39:52,315 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 12:39:52,680 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 12:39:57,144 [main] INFO nopCommerce - *********login failed***********
+2022-05-10 12:44:16,860 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 12:44:16,901 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 12:44:19,273 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 12:44:19,315 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 12:44:21,430 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 12:44:21,800 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 12:44:26,194 [main] INFO nopCommerce - *********login passed***********
+2022-05-10 12:44:28,249 [main] INFO nopCommerce - *********clicks on log0ut**********
+2022-05-10 12:44:32,127 [main] INFO nopCommerce - *********login passed***********
+2022-05-10 12:46:28,532 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 12:46:28,597 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 12:46:31,467 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 12:46:31,610 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 12:46:32,768 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 12:46:33,168 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 12:46:37,618 [main] INFO nopCommerce - *********login passed***********
+2022-05-10 12:47:38,726 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 12:47:38,767 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 12:47:41,295 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 12:47:41,342 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 12:47:42,381 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 12:47:42,814 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 12:47:46,143 [main] INFO nopCommerce - *********login passed***********
+2022-05-10 13:00:10,543 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 13:00:10,601 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 13:00:14,276 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 13:00:14,346 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 13:00:16,797 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 13:00:17,157 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 13:00:24,164 [main] INFO nopCommerce - *********login failed***********
+2022-05-10 13:00:26,196 [main] INFO nopCommerce - *********clicks on log0ut**********
+2022-05-10 13:00:31,118 [main] INFO nopCommerce - *********closing browser**********
+2022-05-10 14:21:46,707 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 14:21:46,772 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 14:21:51,067 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 14:21:51,117 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 14:21:53,126 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 14:21:53,677 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 14:22:28,556 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 14:22:28,578 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 14:22:30,397 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 14:22:30,400 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 14:22:32,393 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 14:22:32,771 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 14:22:52,469 [main] INFO nopCommerce - *********closing browser**********
+2022-05-10 14:22:53,315 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 14:22:53,339 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 14:22:55,345 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 14:22:55,348 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 14:22:56,236 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 14:22:56,721 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 14:23:11,435 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 14:23:11,453 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 14:23:13,460 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 14:23:13,462 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 14:23:14,603 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 14:23:15,034 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 14:23:20,855 [main] INFO nopCommerce - *********login failed***********
+2022-05-10 14:23:22,877 [main] INFO nopCommerce - *********clicks on log0ut**********
+2022-05-10 14:23:26,987 [main] INFO nopCommerce - *********closing browser**********
+2022-05-10 15:27:41,094 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 15:27:41,166 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 15:27:44,187 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 15:27:44,259 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 15:27:46,641 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 15:27:47,085 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 15:28:24,540 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 15:28:24,567 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 15:28:26,548 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 15:28:26,555 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 15:28:27,791 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 15:28:28,192 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 15:28:48,127 [main] INFO nopCommerce - *********closing browser**********
+2022-05-10 15:28:49,084 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 15:28:49,109 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 15:28:50,834 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 15:28:50,843 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 15:28:51,935 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 15:28:52,374 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 16:37:25,469 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 16:37:25,515 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 16:37:28,418 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 16:37:28,473 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 16:37:30,650 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 16:37:31,015 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 16:38:05,626 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 16:38:05,652 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 16:38:07,587 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 16:38:07,595 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 16:38:09,349 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 16:38:09,747 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 16:38:27,705 [main] INFO nopCommerce - *********closing browser**********
+2022-05-10 16:38:28,560 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 16:38:28,580 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 16:38:30,633 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 16:38:30,639 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 16:38:31,626 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 16:38:32,090 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 16:40:38,497 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 16:40:38,579 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 16:40:41,102 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 16:40:41,173 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 16:40:43,598 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 16:40:43,987 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 16:41:16,768 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 16:41:16,815 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 16:41:19,104 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 16:41:19,112 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 16:41:23,671 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 16:41:24,096 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 16:41:45,113 [main] INFO nopCommerce - *********closing browser**********
+2022-05-10 16:41:45,995 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 16:41:46,012 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 16:41:48,531 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 16:41:48,541 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 16:41:49,599 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 16:41:49,990 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 16:45:40,776 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2022-05-10 16:45:41,714 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\MY PC\.cache\selenium\geckodriver\win64\0.31.0\geckodriver.exe
+2022-05-10 16:45:54,872 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 16:45:54,940 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 16:45:56,990 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 16:45:57,207 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 16:46:06,629 [main] INFO nopCommerce - *********login failed***********
+2022-05-10 16:46:08,656 [main] INFO nopCommerce - *********clicks on log0ut**********
+2022-05-10 16:46:12,478 [main] INFO nopCommerce - *********closing browser**********
+2022-05-10 16:46:38,787 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 16:46:38,841 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 16:46:41,674 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 16:46:41,737 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 16:46:42,635 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 16:46:42,984 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 16:46:49,026 [main] INFO nopCommerce - *********login failed***********
+2022-05-10 16:46:51,043 [main] INFO nopCommerce - *********clicks on log0ut**********
+2022-05-10 16:46:55,081 [main] INFO nopCommerce - *********closing browser**********
+2022-05-10 16:47:06,294 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Reading https://api.github.com/repos/SeleniumHQ/selenium/releases to seek IEDriverServer
+2022-05-10 16:47:08,398 [main] INFO io.github.bonigarcia.wdm.online.Downloader - Downloading https://github.com/SeleniumHQ/selenium/releases/download/selenium-4.0.0/IEDriverServer_x64_4.0.0.zip
+2022-05-10 16:47:11,139 [main] INFO io.github.bonigarcia.wdm.online.Downloader - Extracting driver from compressed file iedriverserver_x64_4.0.0.zip
+2022-05-10 16:47:11,190 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.ie.driver as C:\Users\MY PC\.cache\selenium\IEDriverServer\win64\4.0.0\IEDriverServer.exe
+2022-05-10 16:48:44,234 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 16:48:44,297 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 16:49:01,557 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Reading https://api.github.com/repos/SeleniumHQ/selenium/releases to seek IEDriverServer
+2022-05-10 16:49:03,575 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.ie.driver as C:\Users\MY PC\.cache\selenium\IEDriverServer\win64\4.0.0\IEDriverServer.exe
+2022-05-10 16:49:56,213 [main] WARN io.github.bonigarcia.wdm.managers.SafariDriverManager - There is no need to manage the driver for the Safari browser (i.e., safaridriver) since it is built-in in Mac OS
+2022-05-10 16:56:18,892 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 16:56:18,951 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 16:58:05,273 [main] WARN io.github.bonigarcia.wdm.managers.SafariDriverManager - There is no need to manage the driver for the Safari browser (i.e., safaridriver) since it is built-in in Mac OS
+2022-05-10 16:58:58,867 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 16:58:58,905 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 16:59:01,535 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 16:59:01,590 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 16:59:03,689 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 16:59:04,107 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 16:59:11,008 [main] INFO nopCommerce - *********login failed***********
+2022-05-10 16:59:13,026 [main] INFO nopCommerce - *********clicks on log0ut**********
+2022-05-10 16:59:18,106 [main] INFO nopCommerce - *********closing browser**********
+2022-05-10 17:00:40,778 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 17:00:40,830 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 17:00:43,679 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 17:00:43,774 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 17:00:44,875 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 17:00:45,273 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 17:00:52,480 [main] INFO nopCommerce - *********login failed***********
+2022-05-10 17:00:54,517 [main] INFO nopCommerce - *********clicks on log0ut**********
+2022-05-10 17:00:58,253 [main] INFO nopCommerce - *********closing browser**********
+2022-05-10 17:01:34,896 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 17:01:34,947 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 17:01:37,600 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 17:01:37,672 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 17:01:39,908 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 17:01:40,287 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 17:01:47,205 [main] INFO nopCommerce - *********login failed***********
+2022-05-10 17:01:49,225 [main] INFO nopCommerce - *********clicks on log0ut**********
+2022-05-10 17:01:52,955 [main] INFO nopCommerce - *********closing browser**********
+2022-05-10 17:08:15,114 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 17:08:15,161 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 17:08:17,895 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 17:08:17,969 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 17:08:20,280 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 17:08:20,645 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 17:08:27,412 [main] INFO nopCommerce - *********login failed***********
+2022-05-10 17:08:29,439 [main] INFO nopCommerce - *********clicks on log0ut**********
+2022-05-10 17:08:33,127 [main] INFO nopCommerce - *********login failed***********
+2022-05-10 17:08:35,136 [main] INFO nopCommerce - *********closing browser**********
+2022-05-10 17:08:36,382 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 17:08:36,403 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 17:08:38,443 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 17:08:38,453 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 17:08:39,521 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 17:08:40,012 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 17:08:45,866 [main] INFO nopCommerce - *********login failed***********
+2022-05-10 17:08:47,882 [main] INFO nopCommerce - *********clicks on log0ut**********
+2022-05-10 17:08:51,579 [main] INFO nopCommerce - *********login failed***********
+2022-05-10 17:08:53,595 [main] INFO nopCommerce - *********closing browser**********
+2022-05-10 17:08:54,423 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 17:08:54,445 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 17:08:57,149 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 17:08:57,151 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 17:08:59,424 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 17:08:59,980 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 17:09:02,732 [main] INFO nopCommerce - *********login failed***********
+2022-05-10 17:13:53,912 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 17:13:53,965 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 17:13:56,603 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 17:13:56,684 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 17:13:58,621 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 17:13:59,025 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 17:14:05,477 [main] INFO nopCommerce - *********login failed***********
+2022-05-10 17:14:07,505 [main] INFO nopCommerce - *********clicks on log0ut**********
+2022-05-10 17:14:11,248 [main] INFO nopCommerce - *********login failed***********
+2022-05-10 17:14:13,266 [main] INFO nopCommerce - *********closing browser**********
+2022-05-10 17:15:58,240 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 17:15:58,295 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 17:16:00,848 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 17:16:00,907 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 17:16:01,975 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 17:16:02,419 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 17:16:08,012 [main] INFO nopCommerce - *********login failed***********
+2022-05-10 17:16:10,037 [main] INFO nopCommerce - *********clicks on log0ut**********
+2022-05-10 17:16:13,737 [main] INFO nopCommerce - *********login failed***********
+2022-05-10 17:16:15,754 [main] INFO nopCommerce - *********closing browser**********
+2022-05-10 17:17:18,409 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 17:17:18,450 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 17:17:20,772 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 17:17:20,833 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 17:17:22,997 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 17:17:23,442 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 17:18:12,318 [main] INFO nopCommerce - *********closing browser**********
+2022-05-10 17:18:13,195 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 17:18:13,215 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 17:18:15,034 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 17:18:15,038 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 17:18:18,762 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 17:18:19,281 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 17:18:34,718 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 17:18:34,740 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 17:18:36,455 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 17:18:36,469 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 17:18:37,485 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 17:18:37,868 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 17:18:43,573 [main] INFO nopCommerce - *********login failed***********
+2022-05-10 17:18:45,654 [main] INFO nopCommerce - *********clicks on log0ut**********
+2022-05-10 17:18:49,389 [main] INFO nopCommerce - *********login failed***********
+2022-05-10 17:18:51,405 [main] INFO nopCommerce - *********closing browser**********
+2022-05-10 17:21:33,415 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 17:21:33,465 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 17:21:35,801 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 17:21:35,852 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 17:21:38,019 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 17:21:38,370 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 17:21:57,909 [main] INFO nopCommerce - *********closing browser**********
+2022-05-10 17:21:59,177 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 17:21:59,205 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 17:22:01,208 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 17:22:01,211 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 17:22:03,774 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 17:22:04,124 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 17:22:23,451 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 17:22:23,469 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 17:22:25,359 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 17:22:25,386 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 17:22:26,238 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 17:22:26,717 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 17:22:32,508 [main] INFO nopCommerce - *********login failed***********
+2022-05-10 17:22:34,539 [main] INFO nopCommerce - *********clicks on log0ut**********
+2022-05-10 17:22:38,291 [main] INFO nopCommerce - *********login failed***********
+2022-05-10 17:22:40,302 [main] INFO nopCommerce - *********closing browser**********
+2022-05-10 17:26:57,598 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 17:26:57,638 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 17:27:00,004 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 17:27:00,095 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 17:27:02,810 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 17:27:03,247 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 17:27:22,443 [main] INFO nopCommerce - *********closing browser**********
+2022-05-10 17:27:24,162 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 17:27:24,180 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 17:27:26,029 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 17:27:26,035 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 17:27:27,967 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 17:27:28,408 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 17:27:44,942 [main] INFO nopCommerce - *********closing browser**********
+2022-05-10 17:27:45,875 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 17:27:45,893 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 17:27:47,641 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 17:27:47,644 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 17:27:48,520 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 17:27:48,897 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 17:27:54,925 [main] INFO nopCommerce - *********login failed***********
+2022-05-10 17:27:56,945 [main] INFO nopCommerce - *********clicks on log0ut**********
+2022-05-10 17:28:00,783 [main] INFO nopCommerce - *********login failed***********
+2022-05-10 17:28:02,795 [main] INFO nopCommerce - *********closing browser**********
+2022-05-10 20:08:49,102 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 20:08:49,145 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 20:08:51,781 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 20:08:51,817 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 20:08:54,027 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 20:08:54,398 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 20:09:25,550 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 20:09:25,568 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 20:09:27,357 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 20:09:27,365 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 20:09:29,487 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 20:09:29,820 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 20:09:36,572 [main] INFO nopCommerce - *********login failed***********
+2022-05-10 20:09:38,595 [main] INFO nopCommerce - *********clicks on log0ut**********
+2022-05-10 20:09:42,436 [main] INFO nopCommerce - *********login failed***********
+2022-05-10 20:09:44,467 [main] INFO nopCommerce - *********closing browser**********
+2022-05-10 20:09:45,595 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 20:09:45,615 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 20:09:47,397 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 20:09:47,399 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 20:09:48,296 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 20:09:48,636 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 20:09:51,335 [main] INFO nopCommerce - *********login failed***********
+2022-05-10 20:10:46,314 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 20:10:46,350 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 20:10:48,623 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 20:10:48,663 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 20:10:49,625 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 20:10:49,984 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 20:11:07,889 [main] INFO nopCommerce - *********closing browser**********
+2022-05-10 20:11:08,796 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 20:11:08,815 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 20:11:10,522 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 20:11:10,529 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 20:11:11,387 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 20:11:11,755 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 20:11:14,745 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 20:11:14,766 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 20:11:16,657 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 20:11:16,674 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 20:11:17,618 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 20:11:18,008 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 20:11:24,822 [main] INFO nopCommerce - *********login failed***********
+2022-05-10 20:11:26,839 [main] INFO nopCommerce - *********clicks on log0ut**********
+2022-05-10 20:11:30,692 [main] INFO nopCommerce - *********login failed***********
+2022-05-10 20:11:32,725 [main] INFO nopCommerce - *********closing browser**********
+2022-05-10 20:19:10,586 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 20:19:10,633 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 20:19:13,080 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 20:19:13,125 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 20:19:15,044 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 20:19:15,403 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 20:19:34,316 [main] INFO nopCommerce - *********closing browser**********
+2022-05-10 20:19:35,158 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 20:19:35,176 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 20:19:36,829 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 20:19:36,831 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 20:19:37,744 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 20:19:38,109 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 20:19:54,708 [main] INFO nopCommerce - *********closing browser**********
+2022-05-10 20:19:55,516 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 101.0.4951.41 (resolved driver for Chrome 101)
+2022-05-10 20:19:55,535 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\MY PC\.cache\selenium\chromedriver\win32\101.0.4951.41\chromedriver.exe
+2022-05-10 20:19:57,442 [main] INFO nopCommerce - *********Launching Browser***********
+2022-05-10 20:19:57,445 [main] INFO nopCommerce - *********opening URL***********
+2022-05-10 20:19:58,308 [main] INFO nopCommerce - *********Entering username and password***********
+2022-05-10 20:19:58,660 [main] INFO nopCommerce - *********clicking on login button***********
+2022-05-10 20:20:04,691 [main] INFO nopCommerce - *********login failed***********
+2022-05-10 20:20:06,712 [main] INFO nopCommerce - *********clicks on log0ut**********
+2022-05-10 20:20:10,444 [main] INFO nopCommerce - *********login failed***********
+2022-05-10 20:20:12,457 [main] INFO nopCommerce - *********closing browser**********
